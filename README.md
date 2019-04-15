@@ -44,6 +44,10 @@ Blue Bot:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/BlueBot.png "Blue Bot")
 
+BOMJProject
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/bomj.png "BOMJ Project")
+
 Cithadel: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/Cithadel.png "Cithadel")
@@ -64,11 +68,8 @@ Cythosia:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/Cythosia.png "Cythosia")
 
-DarkVNC / HVNC: 
 
-![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/DarkVnc.png "HVNC")
-
-DarkVNC / HVNC: 
+DarkVNC: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/DarkVnc2.png "HVNC")
 
@@ -107,6 +108,10 @@ Godzilla:
 HawkEye: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/hawkeye.png "HawkEye")
+
+HVNC: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/DarkVnc.png "HVNC")
 
 HVNC: 
 
@@ -207,6 +212,10 @@ Orange Fox (unknown so I named it that heh):
 Panda Banker: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/PandaBanker.png "Panda Banker")
+
+Pingu
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/bomj.png "Pingu Stealer")
 
 Pony: 
 
