@@ -131,7 +131,7 @@ JackPOS:
 
 JSPSpy1.0: 
 
-![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/jspsp1.0.png "JSPSpy")
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/jspspy1.0.png "JSPSpy")
 
 Kardon Loader: 
 
