@@ -215,7 +215,7 @@ Panda Banker:
 
 Pingu
 
-![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/bomj.png "Pingu Stealer")
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/pingu.png "Pingu Stealer")
 
 Pony: 
 
