@@ -237,6 +237,10 @@ Racoon Stealer:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/RacoonStealer.png "Racoon")
 
+SpyAgent: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/spyagent.png "SpyAgent")
+
 SpyEye: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/spyeye.png "SpyEye")
