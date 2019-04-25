@@ -109,6 +109,10 @@ HawkEye:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/hawkeye.png "HawkEye")
 
+Hawkeye (old, previously DataLog)
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/hawkeyeold.png "HawkEyeOld")
+
 HVNC: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/DarkVnc.png "HVNC")
