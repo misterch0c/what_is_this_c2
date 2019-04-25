@@ -1,4 +1,7 @@
 ### For all these times you're asking yourself "what is this panel again?"
+Acrux: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/acrux.png "Acrux")
 
 Agent Tesla: 
 
@@ -28,6 +31,10 @@ Arkeiv9:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Arkeiv9.png "Arkeiv9")
 
+Athena HTTP: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/acrux.png "Athena HTTP")
+
 Aurora Loader: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/AuroraLoader.png "Aurora Loader")
@@ -48,13 +55,17 @@ BOMJProject
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/bomj.png "BOMJ Project")
 
-Cithadel: 
+Citadel: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Cithadel.png "Cithadel")
 
 CoalaBot: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/CoalaBot.png "Coala Bot")
+
+CodePro: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/codepro.png "CodePro")
 
 Comet Bot: 
 
@@ -105,6 +116,10 @@ Godzilla:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Godzilla.png "Godzilla")
 
+Golden Phoenix: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/goldenphoenix.png "GoldenPhoenix")
+
 HawkEye: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/hawkeye.png "HawkEye")
@@ -120,6 +135,10 @@ HVNC:
 HVNC: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/HVNC.png "HVNC")
+
+IceIX: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/iceIX.png "IceIX")
 
 ISRS Stealer / ISRS: 
 
@@ -161,6 +180,14 @@ Kpot:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/kpot2.png "Kpot")
 
+Kratos: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/kratos.png "Kratos")
+
+Krypton Stealer:
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/kryptonstealer.png "KryptonStealer")
+
 LiteHTTP:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/kpot.png "LiteHTTP")
@@ -180,6 +207,10 @@ Madness:
 MegalodonHTTP:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/megalodonHTTP.png "MegalodonHTTP")
+
+Megumin:
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/megumin.png "Megumin")
 
 MysticalNet:
 
@@ -229,6 +260,10 @@ Predator The Thief:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/PredatorTheThief.png "Predator The Thief")
 
+ProtonBot
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/protonbot.png "ProtonBot")
+
 QuantLoader: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/quantloader.png "QuantLoader")
@@ -260,6 +295,10 @@ TSLAB:
 Ursnif: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/ursnif.png "Ursnif")
+
+xKeyScore: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/xKeyScore.png "xKeyScore")
 
 Zeus: 
 
