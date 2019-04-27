@@ -256,6 +256,10 @@ Panda Banker:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/PandaBanker.png "Panda Banker")
 
+Panda Bot: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/pandabot.png "Panda Bot")
+
 Pingu
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/pingu.png "Pingu Stealer")
