@@ -31,9 +31,13 @@ Arkeiv9:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Arkeiv9.png "Arkeiv9")
 
+Ars Loader: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/arsloader.png "Ars Loader")
+
 Athena HTTP: 
 
-![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/acrux.png "Athena HTTP")
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/athena.png "Athena HTTP")
 
 Aurora Loader: 
 
