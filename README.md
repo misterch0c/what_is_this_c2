@@ -90,19 +90,7 @@ DarkVNC:
 
 DiamondFox / Gorynch: 
 
-![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/DiamondFox.png "DiamonFox")
-
-DiamondFox / Gorynch: 
-
-![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/DiamondFox2.png "DiamonFox")
-
-DiamondFox / Gorynch: 
-
-![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/DiamondFox3.png "DiamonFox")
-
-DiamondFox / Gorynch: 
-
-![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/DiamondFoxBlack.png "DiamonFoxBlack")
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/diamondall.jpg "DiamonFox")
 
 Eredel: 
 
