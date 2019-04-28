@@ -108,6 +108,18 @@ Eredel:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Eredel.png "Eredel")
 
+Fox Stealer v0.1
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/foxv1.png "foxv1")
+
+Fox Stealer v0.2
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/foxv2.png "foxv2")
+
+Fox Stealer Mod
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/foxmod.png "foxmod")
+
 Gaudox: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/gaudox.png "Gaudox")
@@ -252,9 +264,6 @@ Octopus:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Octopus.png "Octopus")
 
-Orange Fox (unknown so I named it that heh):
-
-![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/OrangeFox.png "Orange Fox")
 
 Panda Banker: 
 
