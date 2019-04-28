@@ -232,6 +232,10 @@ N0peSystems:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/n0pesystems.png "n0peSystems")
 
+NetSky:
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/netsky.png "NetSky")
+
 Neutrino:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/neutrino.png "Neutrino")
