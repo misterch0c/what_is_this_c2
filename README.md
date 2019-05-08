@@ -1,7 +1,7 @@
 ### For all these times you're asking yourself "what is this panel again?"
 Ab-Stealer: 
 
-![alt text](https://github.com/Tlgyt/what_is_this_c2/blob/master/images/ab-stealer.png "Ab-Stealer")
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/ab-stealer.png "Ab-Stealer")
 
 AbSent Loader: 
 
