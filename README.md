@@ -1,4 +1,8 @@
 ### For all these times you're asking yourself "what is this panel again?"
+Ab-Stealer: 
+
+![alt text](https://github.com/Tlgyt/what_is_this_c2/blob/master/images/ab-stealer.png "Ab-Stealer")
+
 AbSent Loader: 
 
 ![alt text](https://github.com/Tlgyt/what_is_this_c2/blob/master/images/AbSentLoader.PNG "AbSent Loader")
@@ -42,6 +46,10 @@ Ars Loader:
 Athena HTTP: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/athena.png "Athena HTTP")
+
+ATS: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/ats.png "ATS")
 
 Aurora Loader: 
 
@@ -99,6 +107,10 @@ DiamondFox / Gorynch:
 Eredel: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Eredel.png "Eredel")
+
+File Stealer: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/filestealer.png "File Stealer")
 
 Fox Stealer v0.1
 
@@ -208,6 +220,10 @@ Lokibot:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/LokiBot2.png "LokiBot")
 
+Liphyra:
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/liphyra.png "Liphyra")
+
 Madness:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/madness.png "Madness")
@@ -293,6 +309,10 @@ Racoon Stealer:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/RacoonStealer.png "Racoon")
 
+s0rryCoins: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/sorrycoins.png "s0rryCoins")
+
 SpyAgent: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/spyagent.png "SpyAgent")
@@ -301,6 +321,10 @@ SpyEye:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/spyeye.png "SpyEye")
 
+Tables: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/tables.png "Tables")
+
 TreasureHunter: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/treasurehunter.png "TreasureHunter")
@@ -308,6 +332,10 @@ TreasureHunter:
 TSLAB: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/TSLAB.png "TSLAB")
+
+TV Rat: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/tvrat.png "TVRat")
 
 Ursnif: 
 
