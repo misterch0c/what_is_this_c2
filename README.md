@@ -124,6 +124,10 @@ Fox Stealer Mod
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/foxmod.png "foxmod")
 
+Fucus Stealer: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/fucus.png "Fucus")
+
 Gaudox: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/gaudox.png "Gaudox")
