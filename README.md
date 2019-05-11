@@ -31,6 +31,10 @@ Anubis Variant:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/AnubisVariant.png "Anubis Variant")
 
+Ares: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/ares.png "Ares")
+
 Arkei: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Arkei.png "Arkei")

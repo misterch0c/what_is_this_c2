@@ -3,6 +3,7 @@ Agent Tesla
 Alina 
 Amadey  
 Anubis Variant  
+Ares
 Arkei  
 Arkeiv9  
 Ars Loader  
