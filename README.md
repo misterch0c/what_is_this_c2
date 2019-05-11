@@ -71,9 +71,9 @@ Blue Bot:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/BlueBot.png "Blue Bot")
 
-BOMJProject
+BOMJProject (Sakari Stealer)
 
-![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/bomj.png "BOMJ Project")
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/bomj.png "Sakari / BOMJ Project")
 
 Citadel: 
 
