@@ -1,4 +1,8 @@
 ### For all these times you're asking yourself "what is this panel again?"
+Ab-Stealer: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/ab-stealer.png "Ab-Stealer")
+
 AbSent Loader: 
 
 ![alt text](https://github.com/Tlgyt/what_is_this_c2/blob/master/images/AbSentLoader.PNG "AbSent Loader")
@@ -27,6 +31,10 @@ Anubis Variant:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/AnubisVariant.png "Anubis Variant")
 
+Ares: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/ares.png "Ares")
+
 Arkei: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Arkei.png "Arkei")
@@ -42,6 +50,10 @@ Ars Loader:
 Athena HTTP: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/athena.png "Athena HTTP")
+
+ATS: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/ats.png "ATS")
 
 Aurora Loader: 
 
@@ -59,9 +71,9 @@ Blue Bot:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/BlueBot.png "Blue Bot")
 
-BOMJProject
+BOMJProject (Sakari Stealer)
 
-![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/bomj.png "BOMJ Project")
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/bomj.png "Sakari / BOMJ Project")
 
 Citadel: 
 
@@ -100,6 +112,10 @@ Eredel:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Eredel.png "Eredel")
 
+File Stealer: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/filestealer.png "File Stealer")
+
 Fox Stealer v0.1
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/foxv1.png "foxv1")
@@ -111,6 +127,10 @@ Fox Stealer v0.2
 Fox Stealer Mod
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/foxmod.png "foxmod")
+
+Fucus Stealer: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/fucus.png "Fucus")
 
 Gaudox: 
 
@@ -208,6 +228,10 @@ Lokibot:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/LokiBot2.png "LokiBot")
 
+Liphyra:
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/liphyra.png "Liphyra")
+
 Madness:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/madness.png "Madness")
@@ -293,6 +317,10 @@ Racoon Stealer:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/RacoonStealer.png "Racoon")
 
+s0rryCoins: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/sorrycoins.png "s0rryCoins")
+
 SpyAgent: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/spyagent.png "SpyAgent")
@@ -301,6 +329,10 @@ SpyEye:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/spyeye.png "SpyEye")
 
+Tables: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/tables.png "Tables")
+
 TreasureHunter: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/treasurehunter.png "TreasureHunter")
@@ -308,6 +340,10 @@ TreasureHunter:
 TSLAB: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/TSLAB.png "TSLAB")
+
+TV Rat: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/tvrat.png "TVRat")
 
 Ursnif: 
 
