@@ -236,6 +236,10 @@ Madness:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/madness.png "Madness")
 
+MajikPOS:
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/majikpos.png "MajikPOS")
+
 MegalodonHTTP:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/megalodonHTTP.png "MegalodonHTTP")

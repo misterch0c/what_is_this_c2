@@ -47,7 +47,8 @@ Kratos
 Krypton Stealer 
 LiteHTTP 
 Lokibot 
-Madness 
+Madness
+MAjikPOS 
 MegalodonHTTP 
 Megumin 
 MysteryBot 
