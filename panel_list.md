@@ -60,6 +60,7 @@ Neutrino
 Nikki Stealer 
 NovoBot 
 Octopus 
+Panda (Android bot)
 Panda Banker  
 Panda Bot  
 Pingu
