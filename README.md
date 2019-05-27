@@ -124,6 +124,10 @@ Fox Stealer v0.2
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/foxv2.png "foxv2")
 
+Fox Stealer v0.3
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/foxv3.png "foxv3")
+
 Fox Stealer Mod
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/foxmod.png "foxmod")
