@@ -47,7 +47,8 @@ Kratos
 Krypton Stealer 
 LiteHTTP 
 Lokibot 
-Madness 
+Madness
+MAjikPOS 
 MegalodonHTTP 
 Megumin 
 MysteryBot 
@@ -59,6 +60,7 @@ Neutrino
 Nikki Stealer 
 NovoBot 
 Octopus 
+Panda (Android bot)
 Panda Banker  
 Panda Bot  
 Pingu

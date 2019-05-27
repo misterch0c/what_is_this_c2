@@ -236,6 +236,10 @@ Madness:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/madness.png "Madness")
 
+MajikPOS:
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/majikpos.png "MajikPOS")
+
 MegalodonHTTP:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/megalodonHTTP.png "MegalodonHTTP")
@@ -280,6 +284,9 @@ Octopus:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Octopus.png "Octopus")
 
+Panda (Android Bot): 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/panda.png "Panda(Android")
 
 Panda Banker: 
 
