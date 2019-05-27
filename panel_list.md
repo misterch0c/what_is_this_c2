@@ -26,6 +26,7 @@ Eredel
 Fox Stealer Mod
 Fox Stealer v0.1
 Fox Stealer v0.2
+Fox Stealer v0.3
 Fucus
 Gaudox  
 Gazorp  
