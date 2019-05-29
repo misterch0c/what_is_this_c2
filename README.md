@@ -367,3 +367,7 @@ xKeyScore:
 Zeus: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/zeus.png "Zeus")
+
+ZyklonHTTP: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/ZyklonHTTP.png "ZyklonHTTP")
