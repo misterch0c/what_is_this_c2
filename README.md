@@ -332,9 +332,13 @@ s0rryCoins:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/sorrycoins.png "s0rryCoins")
 
-SpyAgent: 
+SpyAgent 1.2: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/spyagent.png "SpyAgent")
+
+SpyAgent: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/spyagent2.png "SpyAgent")
 
 SpyEye: 
 
