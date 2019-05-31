@@ -63,9 +63,13 @@ Azorult:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/azorult.png "Azorult")
 
-Baldr: 
+Baldr v2.x: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/baldr.png "Baldr")
+
+Baldr v3.0: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/baldrv3.png "Baldrv3")
 
 Blue Bot: 
 

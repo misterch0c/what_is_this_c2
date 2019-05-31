@@ -11,7 +11,8 @@ Athena HTTP
 Aurora Loader  
 ATS
 Azorult  
-Baldr  
+Baldr v2.x  
+Baldr v3.0  
 Blue Bot  
 BOMJProject
 Citadel  
