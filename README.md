@@ -390,4 +390,4 @@ ZyklonHTTP:
 
 ZyklonLoader: 
 
-![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Zyklonloader.png "ZyklonLoader")
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/zyklonloader.png "ZyklonLoader")
