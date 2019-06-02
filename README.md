@@ -120,6 +120,10 @@ File Stealer:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/filestealer.png "File Stealer")
 
+FormBook: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/formbook.png "FormBook")
+
 Fox Stealer v0.1
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/foxv1.png "foxv1")
@@ -304,6 +308,10 @@ Panda Bot:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/pandabot.png "Panda Bot")
 
+ParasiteHTTP: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/parasite.png "ParasiteHTTP")
+
 Pingu
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/pingu.png "Pingu Stealer")
@@ -379,3 +387,7 @@ Zeus:
 ZyklonHTTP: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/ZyklonHTTP.png "ZyklonHTTP")
+
+ZyklonLoader: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Zyklonloader.png "ZyklonLoader")

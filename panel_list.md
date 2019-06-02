@@ -24,6 +24,7 @@ Cythosia
 DarkVNC  
 DiamondFox / Gorynch  
 Eredel  
+FormBook
 Fox Stealer Mod
 Fox Stealer v0.1
 Fox Stealer v0.2
@@ -64,7 +65,8 @@ NovoBot
 Octopus 
 Panda (Android bot)
 Panda Banker  
-Panda Bot  
+Panda Bot
+ParasiteHTTP  
 Pingu
 Pony  
 Predator The Thief  
@@ -80,3 +82,4 @@ Ursnif
 xKeyScore  
 Zeus
 ZyklonHTTP
+ZyklonLoader
