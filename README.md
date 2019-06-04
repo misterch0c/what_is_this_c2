@@ -43,6 +43,10 @@ Arkeiv9:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Arkeiv9.png "Arkeiv9")
 
+ArminsBot: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/ArminsBot.png "ArminsBot")
+
 Ars Loader: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/arsloader.png "Ars Loader")
