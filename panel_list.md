@@ -36,6 +36,7 @@ Godzilla
 Golden Phoenix  
 HawkEye  
 Hawkeye (old, previously DataLog)
+Hijalyh
 HVNC  
 IceIX  
 ISRS Stealer / ISRS  
