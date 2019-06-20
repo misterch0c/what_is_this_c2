@@ -6,6 +6,7 @@ Anubis Variant
 Ares
 Arkei  
 Arkeiv9  
+ArminsBot
 Ars Loader  
 Athena HTTP  
 Aurora Loader  
