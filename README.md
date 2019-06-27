@@ -172,6 +172,10 @@ Hawkeye (old, previously DataLog)
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/hawkeyeold.png "HawkEyeOld")
 
+Hijalyh: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/hijalyh.png "Hijalyh")
+
 HVNC: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/DarkVnc.png "HVNC")
