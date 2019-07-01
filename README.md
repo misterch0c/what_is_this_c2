@@ -156,6 +156,10 @@ Gazorp:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/gazorp.png "Gazorp")
 
+GlitchPOS: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/glitchpos.png "GlitchPOS")
+
 Godzilla: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Godzilla.png "Godzilla")
