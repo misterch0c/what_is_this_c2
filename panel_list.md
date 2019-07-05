@@ -34,6 +34,7 @@ Fucus
 Gaudox  
 Gazorp  
 GlitchPOS
+GoBrut
 Godzilla  
 Golden Phoenix  
 HawkEye  
