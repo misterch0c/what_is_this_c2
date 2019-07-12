@@ -78,6 +78,7 @@ ProtonBot
 QuantLoader  
 Racoon 3000  
 Racoon Stealer  
+Rarog  
 SpyAgent  
 SpyEye  
 TreasureHunter  
