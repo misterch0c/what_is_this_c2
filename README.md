@@ -360,6 +360,10 @@ Rarog:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/rarog.png "Rarog")
 
+Riltok: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/riltok.png "riltok")
+
 s0rryCoins: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/sorrycoins.png "s0rryCoins")
