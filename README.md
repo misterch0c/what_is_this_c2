@@ -51,6 +51,10 @@ Ars Loader:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/arsloader.png "Ars Loader")
 
+AspireStealer: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/aspirestealer.png "AspireStealer")
+
 Athena HTTP: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/athena.png "Athena HTTP")

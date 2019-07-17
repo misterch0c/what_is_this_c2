@@ -8,6 +8,7 @@ Arkei
 Arkeiv9  
 ArminsBot
 Ars Loader  
+AspireStealer
 Athena HTTP  
 Aurora Loader  
 ATS
