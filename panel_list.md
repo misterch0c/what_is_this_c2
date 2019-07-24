@@ -86,6 +86,7 @@ SpyEye
 TreasureHunter  
 TSLAB  
 Ursnif  
+Vidar
 xKeyScore  
 Zeus
 ZyklonHTTP
