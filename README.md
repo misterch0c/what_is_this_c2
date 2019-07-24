@@ -384,6 +384,10 @@ Ursnif:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/ursnif.png "Ursnif")
 
+Vidar: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Vidar.png "Vidar")
+
 xKeyScore: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/xKeyScore.png "xKeyScore")
