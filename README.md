@@ -132,6 +132,10 @@ File Stealer:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/filestealer.png "File Stealer")
 
+FinderBot: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/finderbot.png "FinderBot")
+
 FormBook: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/formbook.png "FormBook")
@@ -211,6 +215,10 @@ ISRS Stealer / ISRS:
 ISRS Stealer / ISRS: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/isr-stealer-masarati.png "ISRS")
+
+IStealer: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/istealer.png "IStealer")
 
 JackPOS: 
 

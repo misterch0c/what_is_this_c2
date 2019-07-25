@@ -26,6 +26,7 @@ Cythosia
 DarkVNC  
 DiamondFox / Gorynch  
 Eredel  
+FinderBot
 FormBook
 Fox Stealer Mod
 Fox Stealer v0.1
@@ -43,7 +44,8 @@ Hawkeye (old, previously DataLog)
 Hijalyh
 HVNC  
 IceIX  
-ISRS Stealer / ISRS  
+ISRS Stealer / ISRS
+IStealer  
 JackPOS  
 JSPSpy1.0  
 Kardon Loader  
