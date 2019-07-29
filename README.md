@@ -252,6 +252,10 @@ Krypton Stealer:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/kryptonstealer.png "KryptonStealer")
 
+L0rdix:
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/l0rdix.png "L0rdix")
+
 LiteHTTP:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/litehttp.png "LiteHTTP")

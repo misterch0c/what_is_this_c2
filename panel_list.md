@@ -53,6 +53,7 @@ Keybase
 Kpot 
 Kratos  
 Krypton Stealer 
+L0rdix
 LiteHTTP 
 Lokibot 
 Madness
