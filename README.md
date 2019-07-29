@@ -21,7 +21,7 @@ Agent Tesla:
 
 Agent Tesla: 
 
-![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/AgentTesla3.png "Agent Tesla")
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/AgentTeslaReborn.png "Agent Tesla")
 
 Alina: 
 
