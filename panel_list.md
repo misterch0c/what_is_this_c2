@@ -22,7 +22,8 @@ CoalaBot
 CodePro  
 Comet Bot  
 Cyborg  
-Cythosia  
+Cythosia
+DarkRat  
 DarkVNC  
 DiamondFox / Gorynch  
 Eredel  

@@ -115,6 +115,9 @@ Cythosia:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Cythosia.png "Cythosia")
 
+DarkRat: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/darkrat.png "DarkRat")
 
 DarkVNC: 
 
