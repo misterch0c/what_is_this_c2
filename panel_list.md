@@ -90,7 +90,8 @@ TreasureHunter
 TSLAB  
 Ursnif  
 Vidar
-xKeyScore  
+xKeyScore
+ZeroBot  
 Zeus
 ZyklonHTTP
 ZyklonLoader

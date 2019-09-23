@@ -427,6 +427,10 @@ xKeyScore:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/xKeyScore.png "xKeyScore")
 
+ZeroBot: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/zerobot.png "ZeroBot")
+
 Zeus: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/zeus.png "Zeus")
