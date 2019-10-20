@@ -84,6 +84,7 @@ Racoon 3000
 Racoon Stealer  
 Rarog  
 Riltok  
+Sarwent
 SpyAgent  
 SpyEye  
 TreasureHunter  
