@@ -129,7 +129,7 @@ DiamondFox / Gorynch:
 
 DiamondFox / Renard: 
 
-![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/renardall.jpg "DiamonFox")
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/renardall.png "DiamonFox")
 
 Eredel: 
 
