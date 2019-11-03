@@ -127,6 +127,10 @@ DiamondFox / Gorynch:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/diamondall.jpg "DiamonFox")
 
+DiamondFox / Renard: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/renardall.jpg "DiamonFox")
+
 Eredel: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Eredel.png "Eredel")
@@ -171,9 +175,13 @@ Gazorp:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/gazorp.png "Gazorp")
 
-GoBrut:
+GoBrut / StealthWorker:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/GoBrut.png "GoBrut")
+
+GoBrut / StealthWorker:
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/GoBrut2.png "GoBrut")
 
 GlitchPOS: 
 

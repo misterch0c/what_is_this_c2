@@ -25,7 +25,8 @@ Cyborg
 Cythosia
 DarkRat  
 DarkVNC  
-DiamondFox / Gorynch  
+DiamondFox / Gorynch
+DimaondFox / Renard  
 Eredel  
 FinderBot
 FormBook
@@ -37,7 +38,7 @@ Fucus
 Gaudox  
 Gazorp  
 GlitchPOS
-GoBrut
+GoBrut / StealthWorker
 Godzilla  
 Golden Phoenix  
 HawkEye  
