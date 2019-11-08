@@ -15,6 +15,7 @@ ATS
 Azorult  
 Baldr v2.x  
 Baldr v3.0  
+BetaBot
 Blue Bot  
 BOMJProject
 Citadel  

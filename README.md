@@ -83,6 +83,10 @@ Baldr v3.0:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/baldrv3.png "Baldrv3")
 
+BetaBot:
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/betabot.png "BetaBot")
+
 Blue Bot: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/BlueBot.png "Blue Bot")
