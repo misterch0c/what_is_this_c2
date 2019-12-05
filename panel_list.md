@@ -72,7 +72,8 @@ NetSky
 Neutrino 
 Nikki Stealer 
 NovoBot 
-Octopus 
+Octopus
+Oski 
 Panda (Android bot)
 Panda Banker  
 Panda Bot
