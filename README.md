@@ -183,10 +183,6 @@ Gazorp:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/gazorp.png "Gazorp")
 
-Genasep
-
-![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/genasep.png "Genasep")
-
 GoBrut / StealthWorker:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/GoBrut.png "GoBrut")
@@ -338,6 +334,10 @@ NetSky:
 Neutrino:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/neutrino.png "Neutrino")
+
+NewDDOSBot
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/genasep.png "NewDDOSBot")
 
 Nikki Stealer:
 

@@ -39,7 +39,6 @@ Fox Stealer v0.3
 Fucus
 Gaudox  
 Gazorp
-Genasep  
 GlitchPOS
 GoBrut / StealthWorker
 Godzilla  
@@ -71,7 +70,8 @@ MysticalNet
 N0F1l3 / 1ms0rry 
 N0peSystems 
 NetSky 
-Neutrino 
+Neutrino
+NewDDOSBot
 Nikki Stealer 
 NovoBot 
 Octopus
