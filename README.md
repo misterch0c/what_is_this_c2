@@ -95,6 +95,10 @@ BOMJProject (Sakari Stealer)
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/bomj.png "Sakari / BOMJ Project")
 
+Buer Loader
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/buer.png "Buer")
+
 Citadel: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Cithadel.png "Cithadel")
@@ -178,6 +182,10 @@ Gaudox:
 Gazorp: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/gazorp.png "Gazorp")
+
+Genasep
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/genasep.png "Genasep")
 
 GoBrut / StealthWorker:
 

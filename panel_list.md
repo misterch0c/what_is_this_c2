@@ -18,6 +18,7 @@ Baldr v3.0
 BetaBot
 Blue Bot  
 BOMJProject
+Buer
 Citadel  
 CoalaBot  
 CodePro  
@@ -37,7 +38,8 @@ Fox Stealer v0.2
 Fox Stealer v0.3
 Fucus
 Gaudox  
-Gazorp  
+Gazorp
+Genasep  
 GlitchPOS
 GoBrut / StealthWorker
 Godzilla  
