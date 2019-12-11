@@ -327,6 +327,10 @@ N0peSystems:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/n0pesystems.png "n0peSystems")
 
+Nemty:
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/nemty.png "Nemty")
+
 NetSky:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/netsky.png "NetSky")
