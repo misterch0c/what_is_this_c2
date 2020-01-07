@@ -283,6 +283,10 @@ Krypton Stealer:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/kryptonstealer.png "KryptonStealer")
 
+Liphyra:
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/liphyra.png "Liphyra")
+
 LiteHTTP:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/litehttp.png "LiteHTTP")
@@ -295,9 +299,9 @@ Lokibot:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/LokiBot2.png "LokiBot")
 
-Liphyra:
+Lucifer:
 
-![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/liphyra.png "Liphyra")
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/lucifer.png "Lucifer")
 
 Madness:
 

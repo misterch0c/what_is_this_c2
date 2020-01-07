@@ -60,8 +60,10 @@ Keybase
 Kpot 
 Kratos  
 Krypton Stealer 
+Liphyras
 LiteHTTP 
 Lokibot 
+Lucifer
 Madness
 MAjikPOS 
 MegalodonHTTP 
