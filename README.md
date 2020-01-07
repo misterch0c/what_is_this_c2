@@ -87,6 +87,10 @@ BetaBot:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/betabot.png "BetaBot")
 
+BlackNET:
+
+![alt text](https://github.com/Fedor22/what_is_this_c2/blob/master/images/BlackNETBotnet.png "BlackNET")
+
 Blue Bot: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/BlueBot.png "Blue Bot")
