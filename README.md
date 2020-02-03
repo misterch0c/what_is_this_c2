@@ -99,6 +99,10 @@ BOMJProject (Sakari Stealer)
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/bomj.png "Sakari / BOMJ Project")
 
+Borr
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/borr.png "Borr")
+
 Buer Loader
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/buer.png "Buer")
