@@ -407,11 +407,11 @@ QuantLoader:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/quantloader.png "QuantLoader")
 
-Racoon 3000: 
+Raccoon 3000: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Racoon3000.png "Racoon")
 
-Racoon Stealer: 
+Raccoon Stealer: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/RacoonStealer.png "Racoon")
 
