@@ -151,6 +151,9 @@ Eredel:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Eredel.png "Eredel")
 
+Evrial: 
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/evrial.png "Evrial")
+
 File Stealer: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/filestealer.png "File Stealer")
