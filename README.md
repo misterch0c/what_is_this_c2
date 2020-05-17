@@ -216,7 +216,7 @@ Golden Phoenix:
 
 Gomorrah Stealer: 
 
-![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Gomorrah_Stealer.png "Gomorrah Stealer")
+![alt text](/images/Gomorrah_Stealer.png "Gomorrah Stealer")
 
 HawkEye: 
 
