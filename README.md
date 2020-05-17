@@ -214,6 +214,10 @@ Golden Phoenix:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/goldenphoenix.png "GoldenPhoenix")
 
+Gomorrah Stealer: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Gomorrah_Stealer.png "Gomorrah Stealer")
+
 HawkEye: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/hawkeye.png "HawkEye")
