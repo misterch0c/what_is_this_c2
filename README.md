@@ -25,7 +25,7 @@ Agent Tesla:
 
 AlienBot:
 
-![alt text](https://github.com/misterch0c/what_is_this_c2/blob/AlienBot/images/AlienBot.png "AlienBot")
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/AlienBot.png "AlienBot")
 
 Alina: 
 
