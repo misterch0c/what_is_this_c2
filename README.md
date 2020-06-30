@@ -458,6 +458,10 @@ Tables:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/tables.png "Tables")
 
+Taurus: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Taurus.png "Taurus")
+
 TreasureHunter: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/treasurehunter.png "TreasureHunter")
