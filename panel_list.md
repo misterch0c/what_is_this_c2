@@ -67,6 +67,7 @@ Lokibot
 Lucifer
 Madness
 MAjikPOS 
+MassLogger
 MegalodonHTTP 
 Megumin 
 MysteryBot 

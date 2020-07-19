@@ -322,6 +322,10 @@ MajikPOS:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/majikpos.png "MajikPOS")
 
+MassLogger:
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/MassLogger.png "MassLogger")
+
 MegalodonHTTP:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/megalodonHTTP.png "MegalodonHTTP")
