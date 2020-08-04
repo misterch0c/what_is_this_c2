@@ -414,6 +414,10 @@ ProtonBot
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/protonbot.png "ProtonBot")
 
+PurpleWave
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/PurpleWave.png "PurpleWave")
+
 QuantLoader: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/quantloader.png "QuantLoader")

@@ -90,6 +90,7 @@ Pingu
 Pony  
 Predator The Thief  
 ProtonBot
+PurpleWave
 QuantLoader  
 Racoon 3000  
 Racoon Stealer  
