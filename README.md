@@ -153,7 +153,7 @@ DiamondFox / Renard:
 
 DT-stealer: 
 
-![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/dt_stealer.jpg "dt-stealer")
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/dt_stealer.png "dt-stealer")
 
 Eredel: 
 
