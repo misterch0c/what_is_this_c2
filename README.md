@@ -151,6 +151,10 @@ DiamondFox / Renard:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/renardall.png "DiamonFox")
 
+DT-stealer: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/dt_stealer.jpg "dt-stealer")
+
 Eredel: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Eredel.png "Eredel")
