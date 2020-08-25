@@ -31,6 +31,7 @@ DarkRat
 DarkVNC  
 DiamondFox / Gorynch
 DimaondFox / Renard  
+DT-stealer  
 Eredel  
 FinderBot
 FormBook
