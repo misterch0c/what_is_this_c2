@@ -79,6 +79,10 @@ Azorult:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/azorult.png "Azorult")
 
+BackStage: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/backstage.png "BackStage")
+
 Baldr v2.x: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/baldr.png "Baldr")
