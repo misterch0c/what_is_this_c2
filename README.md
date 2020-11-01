@@ -226,6 +226,10 @@ Golden Phoenix:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/goldenphoenix.png "GoldenPhoenix")
 
+Gomorrah Lite: 
+
+![alt text](/images/gom_lite.png "Gomorrah Lite V2")
+
 Gomorrah Stealer: 
 
 ![alt text](/images/Gomorrah_Stealer.png "Gomorrah Stealer")
