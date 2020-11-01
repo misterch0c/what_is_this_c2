@@ -81,7 +81,8 @@ Nemty
 NetSky 
 Neutrino
 NewDDOSBot
-Nikki Stealer 
+Nikki Stealer
+NovaHTTP 
 NovoBot 
 Octopus
 Oski 

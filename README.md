@@ -382,6 +382,10 @@ Nikki Stealer:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/nikkiStealer.png "Nikki")
 
+NovaHTTP:
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/novahttp.png "NovaHTTP")
+
 NovoBot:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/NovoBot.png "NovoBot")
