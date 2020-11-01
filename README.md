@@ -97,7 +97,11 @@ BetaBot:
 
 BlackNET:
 
-![alt text](https://github.com/Fedor22/what_is_this_c2/blob/master/images/BlackNETBotnet.png "BlackNET")
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/BlackNETBotnet.png "BlackNET")
+
+BlackRock:
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/blackrock.png "BlackRock")
 
 Blue Bot: 
 

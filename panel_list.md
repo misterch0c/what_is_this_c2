@@ -19,6 +19,7 @@ Baldr v2.x
 Baldr v3.0  
 BetaBot
 BlackNET
+BlackRock
 Blue Bot  
 BOMJProject
 Buer
