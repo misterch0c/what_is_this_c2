@@ -23,6 +23,10 @@ Agent Tesla:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/AgentTeslaReborn.png "Agent Tesla")
 
+Agent Tesla / Mana: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/mana.png "Agent Tesla / Mana")
+
 AlienBot:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/AlienBot.png "AlienBot")
