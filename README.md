@@ -5,7 +5,7 @@ Ab-Stealer:
 
 AbSent Loader: 
 
-![alt text](https://github.com/Tlgyt/what_is_this_c2/blob/master/images/AbSentLoader.PNG "AbSent Loader")
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/AbSentLoader.png "AbSent Loader")
 
 Acrux: 
 
