@@ -35,6 +35,10 @@ Amadey:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Amadey.png "Amadey")
 
+Amadey: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Amadey2.png "Amadey")
+
 Anubis Variant: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/AnubisVariant.png "Anubis Variant")
@@ -75,6 +79,10 @@ Aurora Loader:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/AuroraLoader.png "Aurora Loader")
 
+Avalon: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/avalon.png "Avalon")
+
 Azorult: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/azorult.png "Azorult")
@@ -103,6 +111,10 @@ BlackRock:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/blackrock.png "BlackRock")
 
+Bloody Stealer: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/bloody.png "Bloody Stealer")
+
 Blue Bot: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/BlueBot.png "Blue Bot")
@@ -119,9 +131,13 @@ Buer Loader
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/buer.png "Buer")
 
+Campo Loader: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/campo.png "Campo Loader")
+
 Citadel: 
 
-![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Cithadel.png "Cithadel")
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Citadel.png "Citadel")
 
 CoalaBot: 
 
@@ -130,6 +146,10 @@ CoalaBot:
 CodePro: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/codepro.png "CodePro")
+
+Colibri: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/colibri.png "Colibri")
 
 Comet Bot: 
 
@@ -167,7 +187,16 @@ Eredel:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Eredel.png "Eredel")
 
-Evrial: 
+Ermac: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/ermac.png "Ermac")
+
+EvilBear:
+ 
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/evilbear.png "EvilBear")
+
+Evrial:
+ 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/evrial.png "Evrial")
 
 File Stealer: 
@@ -237,6 +266,14 @@ Gomorrah Lite:
 Gomorrah Stealer: 
 
 ![alt text](/images/Gomorrah_Stealer.png "Gomorrah Stealer")
+
+Gomorrah Stealer v4: 
+
+![alt text](/images/gom4.png "Gomorrah Stealer v4")
+
+Grim Agent: 
+
+![alt text](/images/grim.png "Grim Agent")
 
 HawkEye: 
 
@@ -314,6 +351,10 @@ Krypton Stealer:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/kryptonstealer.png "KryptonStealer")
 
+Lilith:
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/lilith.png "Lilith")
+
 Liphyra:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/liphyra.png "Liphyra")
@@ -341,6 +382,10 @@ Madness:
 MajikPOS:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/majikpos.png "MajikPOS")
+
+Mars Stealer:
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/mars.png "Mars Stealer")
 
 MassLogger:
 
@@ -462,9 +507,17 @@ Riltok:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/riltok.png "riltok")
 
+Saint: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/saint.png "Saint")
+
 Sarwent: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/sarwent.png "sarwent")
+
+SethLoader: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/sethloader.png "SethLoader")
 
 s0rryCoins: 
 
@@ -510,9 +563,17 @@ Ursnif:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/ursnif.png "Ursnif")
 
+Vertex: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Vertex.png "Vertex")
+
 Vidar: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Vidar.png "Vidar")
+
+Vulturi: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/vulturi.png "Vulturi")
 
 xKeyScore: 
 

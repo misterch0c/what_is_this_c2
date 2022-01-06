@@ -11,8 +11,9 @@ ArminsBot
 Ars Loader  
 AspireStealer
 Athena HTTP  
-Aurora Loader  
 ATS
+Aurora Loader
+Avalon  
 Azorult  
 BackStage  
 Baldr v2.x  
@@ -20,12 +21,15 @@ Baldr v3.0
 BetaBot
 BlackNET
 BlackRock
+Bloody
 Blue Bot  
 BOMJProject
 Buer
+CampoLoader
 Citadel  
 CoalaBot  
-CodePro  
+CodePro
+Colibri  
 Comet Bot  
 Cyborg  
 Cythosia
@@ -33,8 +37,10 @@ DarkRat
 DarkVNC  
 DiamondFox / Gorynch
 DimaondFox / Renard  
-DT-stealer  
+DT-stealer
 Eredel  
+Ermac
+Evrial
 FinderBot
 FormBook
 Fox Stealer Mod
@@ -49,6 +55,7 @@ GoBrut / StealthWorker
 Godzilla  
 Golden Phoenix  
 Gomorrah Stealer
+Grim Agent
 HawkEye  
 Hawkeye (old, previously DataLog)
 Hijalyh
@@ -64,13 +71,15 @@ Keitaro TDS
 Keybase  
 Kpot 
 Kratos  
-Krypton Stealer 
+Krypton Stealer
+Lilith
 Liphyras
 LiteHTTP 
 Lokibot 
 Lucifer
 Madness
 MAjikPOS 
+Mars
 MassLogger
 MegalodonHTTP 
 Megumin 
@@ -100,8 +109,10 @@ QuantLoader
 Racoon 3000  
 Racoon Stealer  
 Rarog  
-Riltok  
+Riltok
+Saint  
 Sarwent
+SethLoader
 SpyAgent  
 SpyEye  
 Taurus
@@ -109,7 +120,9 @@ TreasureHunter
 TRON Project
 TSLAB  
 Ursnif  
+Vertex
 Vidar
+Vulturi
 xKeyScore
 ZeroBot  
 Zeus
