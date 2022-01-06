@@ -323,6 +323,10 @@ JSPSpy1.0:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/jspspy1.0.png "JSPSpy")
 
+Jupyter: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/jupyter.png "Jupyter")
+
 Kardon Loader: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/kardonloader.png "Kardon Laoder")
@@ -551,6 +555,10 @@ Taurus:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Taurus.png "Taurus")
 
+ThiefBot: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/thiefbot.png "ThiefBot")
+
 TreasureHunter: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/treasurehunter.png "TreasureHunter")
@@ -582,6 +590,10 @@ Vidar:
 Vulturi: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/vulturi.png "Vulturi")
+
+WarBot: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/warbot.png "WarBot")
 
 xKeyScore: 
 

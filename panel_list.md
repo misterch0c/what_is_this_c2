@@ -65,6 +65,7 @@ ISRS Stealer / ISRS
 IStealer  
 JackPOS  
 JSPSpy1.0  
+Jupyter
 Kardon Loader  
 Katrina  
 Keitaro TDS  
@@ -117,6 +118,7 @@ SethLoader
 SpyAgent  
 SpyEye  
 Taurus
+ThiefBot
 TreasureHunter
 TRON Project
 TSLAB  
@@ -124,6 +126,7 @@ Ursnif
 Vertex
 Vidar
 Vulturi
+Warbot
 xKeyScore
 ZeroBot  
 Zeus
