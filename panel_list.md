@@ -105,7 +105,8 @@ Pony
 Predator The Thief  
 ProtonBot
 PurpleWave
-QuantLoader  
+QuantLoader
+Qudox  
 Racoon 3000  
 Racoon Stealer  
 Rarog  

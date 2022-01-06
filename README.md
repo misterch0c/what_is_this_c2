@@ -491,6 +491,10 @@ QuantLoader:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/quantloader.png "QuantLoader")
 
+Qudox: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/qudox.png "Qudox")
+
 Raccoon 3000: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Racoon3000.png "Racoon")
@@ -549,7 +553,7 @@ TreasureHunter:
 
 TRON Project:
 
-![alt text](https://github.com/Fedor22/what_is_this_c2/blob/master/images/TRONProject.png "TRON Project")
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/TRONProject.png "TRON Project")
 
 TSLAB: 
 
@@ -565,7 +569,7 @@ Ursnif:
 
 Vertex: 
 
-![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/Vertex.png "Vertex")
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/vertex.png "Vertex")
 
 Vidar: 
 
