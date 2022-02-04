@@ -595,6 +595,11 @@ WarBot:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/warbot.png "WarBot")
 
+
+XFiles Stealer: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/xfiles%20stealer.png "XFiles Stealer")
+
 xKeyScore: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/xKeyScore.png "xKeyScore")
