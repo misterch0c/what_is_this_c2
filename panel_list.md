@@ -42,6 +42,7 @@ Eredel
 Ermac
 Evrial
 FinderBot
+Flicker
 FormBook
 Fox Stealer Mod
 Fox Stealer v0.1
