@@ -211,6 +211,10 @@ FinderBot:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/finderbot.png "FinderBot")
 
+Flicker Stealer: 
+
+![alt text](https://github.com/luca-m/what_is_this_c2/blob/master/images/flicker.png "Flicker Stealer")
+
 FormBook: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/formbook.png "FormBook")
