@@ -331,6 +331,10 @@ Jupyter:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/jupyter.png "Jupyter")
 
+Kalimpau C2: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/kalimpau.png "Kalimpau C2")
+
 Kardon Loader: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/kardonloader.png "Kardon Laoder")
