@@ -1,4 +1,11 @@
-### For all these times you're asking yourself "what is this panel again?"
+# What is this C2 / Awesome C2 Panels
+
+A maintained fork of the awesome _what_is_this_c2_ project created by MisterCh0c (@Mister_Ch0c).
+
+The "What is this C2 / Awesome C2 Panels" aims to provide a knoledge base for threat hunters to help recognize malicious command and control panels used by threat actors in the wild.  
+
+# Awesome (Malicious) C2 Panels
+
 Ab-Stealer: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/ab-stealer.png "Ab-Stealer")
