@@ -603,9 +603,9 @@ WarBot:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/warbot.png "WarBot")
 
-Zavis Stealer: 
+Xaview Stealer: 
 
-![alt text](https://github.com/luca-m/what_is_this_c2/blob/master/images/xavis.png "Xavis Stealer")
+![alt text](https://github.com/luca-m/what_is_this_c2/blob/master/images/xavis.png "Xaview Stealer")
 
 XFiles Stealer: 
 
