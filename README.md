@@ -202,6 +202,10 @@ Ermac:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/ermac.png "Ermac")
 
+EvilGINX PB Cookie Panel:
+ 
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/evilginxbpcp.png "EvilGINX PB Cookie Panel")
+
 EvilBear:
  
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/evilbear.png "EvilBear")
