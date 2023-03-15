@@ -552,7 +552,7 @@ SethLoader:
 
 Smokeloader: 
 
-![alt text](https://github.com/luca-m/what_is_this_c2/blob/master/images/smokeloader.png "smokeloader")
+![alt text](https://github.com/luca-m/what_is_this_c2/blob/master/images/smokeloader.jpg "smokeloader")
 
 s0rryCoins: 
 
