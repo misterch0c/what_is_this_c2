@@ -550,6 +550,10 @@ SethLoader:
 
 ![alt text](https://github.com/luca-m/what_is_this_c2/blob/master/images/sethloader.png "SethLoader")
 
+Smokeloader: 
+
+![alt text](https://github.com/luca-m/what_is_this_c2/blob/master/images/smokeloader.png "smokeloader")
+
 s0rryCoins: 
 
 ![alt text](https://github.com/luca-m/what_is_this_c2/blob/master/images/sorrycoins.png "s0rryCoins")
