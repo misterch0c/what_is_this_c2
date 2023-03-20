@@ -602,6 +602,10 @@ UNAM (SilentCryptoMiner:
 
 ![alt text](https://github.com/luca-m/what_is_this_c2/blob/master/images/unam.png "UNAM")
 
+U-Panel (v2.9, http.favicon.hash:-1024431699):
+
+![alt text](https://github.com/luca-m/what_is_this_c2/blob/master/images/upanel29.png "U-Panel 2.9")
+
 Ursnif: 
 
 ![alt text](https://github.com/luca-m/what_is_this_c2/blob/master/images/ursnif.png "Ursnif")
