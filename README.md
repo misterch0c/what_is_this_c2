@@ -534,6 +534,10 @@ Rarog:
 
 ![alt text](https://github.com/luca-m/what_is_this_c2/blob/master/images/rarog.png "Rarog")
 
+Redline: 
+
+![alt text](https://github.com/luca-m/what_is_this_c2/blob/master/images/redline.png "Redline")
+
 Riltok: 
 
 ![alt text](https://github.com/luca-m/what_is_this_c2/blob/master/images/riltok.png "riltok")
