@@ -174,6 +174,10 @@ Cythosia:
 
 ![alt text](https://github.com/luca-m/what_is_this_c2/blob/master/images/Cythosia.png "Cythosia")
 
+CrashedTech Loader: 
+
+![alt text](https://github.com/luca-m/what_is_this_c2/blob/master/images/crashedtech_loader.png "CrashedTech Loader")
+
 DarkRat: 
 
 ![alt text](https://github.com/luca-m/what_is_this_c2/blob/master/images/darkrat.png "DarkRat")
@@ -533,10 +537,6 @@ Raccoon Stealer:
 Rarog: 
 
 ![alt text](https://github.com/luca-m/what_is_this_c2/blob/master/images/rarog.png "Rarog")
-
-CrashedTech Loader: 
-
-![alt text](https://github.com/luca-m/what_is_this_c2/blob/master/images/redline.png "CrashedTech Loader")
 
 Riltok: 
 
