@@ -502,6 +502,11 @@ Pingu
 
 ![alt text](https://github.com/luca-m/what_is_this_c2/blob/master/images/pingu.png "Pingu Stealer")
 
+
+Parrot TDS: 
+
+![alt text](https://github.com/luca-m/what_is_this_c2/blob/master/images/parrot_tds.png "Parrot TDS")
+
 Pony: 
 
 ![alt text](https://github.com/luca-m/what_is_this_c2/blob/master/images/Pony.png "Pony")
