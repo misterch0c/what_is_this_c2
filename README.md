@@ -274,7 +274,7 @@ GlitchPOS:
 
 ![alt text](https://github.com/luca-m/what_is_this_c2/blob/master/images/glitchpos.png "GlitchPOS")
 
-GlockBot ([link](https://twitter.com/ViriBack/status/1639977891696967680)): 
+GlockBot ([ref](https://twitter.com/ViriBack/status/1639977891696967680),[http.favicon.hash=1108795842]): 
 
 ![alt text](https://github.com/luca-m/what_is_this_c2/blob/master/images/glock-panel.png "GlockBot")
 
