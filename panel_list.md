@@ -59,6 +59,7 @@ Grim Agent
 HawkEye  
 Hawkeye (old, previously DataLog)
 Hijalyh
+HookBot
 HVNC  
 IceIX  
 ISRS Stealer / ISRS
