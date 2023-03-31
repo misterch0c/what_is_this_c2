@@ -83,6 +83,10 @@ Aurora Loader:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/AuroraLoader.png "Aurora Loader")
 
+Aurora Stealer: 
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/aurora.png "Aurora Stealer")
+
 Avalon: 
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/avalon.png "Avalon")
@@ -106,6 +110,10 @@ Baldr v3.0:
 BetaBot:
 
 ![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/betabot.png "BetaBot")
+
+BlackGuard V5:
+
+![alt text](https://github.com/misterch0c/what_is_this_c2/blob/master/images/blackguard5.png "BlackGuard V5")
 
 BlackNET:
 
@@ -274,6 +282,10 @@ Gomorrah Stealer:
 Gomorrah Stealer v4: 
 
 ![alt text](/images/gom4.png "Gomorrah Stealer v4")
+
+Gomorrah Stealer v5: 
+
+![alt text](/images/gomorrahv5.png "Gomorrah Stealer v5")
 
 Grim Agent: 
 

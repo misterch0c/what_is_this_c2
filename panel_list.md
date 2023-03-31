@@ -13,12 +13,14 @@ AspireStealer
 Athena HTTP  
 ATS
 Aurora Loader
+Aurora Stealer
 Avalon  
 Azorult  
 BackStage  
 Baldr v2.x  
 Baldr v3.0  
 BetaBot
+BlackGuard V5
 BlackNET
 BlackRock
 Bloody
