@@ -315,9 +315,13 @@ Hijalyh:
 
 ![alt text](https://github.com/luca-m/what_is_this_c2/blob/master/images/hijalyh.png "Hijalyh")
 
-HVNC: 
+Hydra(ref. [link](https://twitter.com/josh_penny/status/1644464243956129793) ) : 
 
-![alt text](https://github.com/luca-m/what_is_this_c2/blob/master/images/DarkVnc.png "HVNC")
+![alt text](https://github.com/luca-m/what_is_this_c2/blob/master/images/hydra.png "Hydra")
+
+DarkVNC: 
+
+![alt text](https://github.com/luca-m/what_is_this_c2/blob/master/images/DarkVnc.png "DarkVnc")
 
 HVNC: 
 
@@ -612,7 +616,7 @@ TV Rat:
 
 ![alt text](https://github.com/luca-m/what_is_this_c2/blob/master/images/tvrat.png "TVRat")
 
-UNAM (SilentCryptoMiner: 
+UNAM (SilentCryptoMiner): 
 
 ![alt text](https://github.com/luca-m/what_is_this_c2/blob/master/images/unam.png "UNAM")
 
