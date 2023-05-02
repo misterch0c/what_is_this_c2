@@ -14,6 +14,10 @@ AbSent Loader:
 
 ![alt text](https://github.com/luca-m/what_is_this_c2/blob/master/images/AbSentLoader.png "AbSent Loader")
 
+AMOS Stealer ( [ref](https://twitter.com/phd_phuc/status/1651002681798926337) ): 
+
+![alt text](https://github.com/luca-m/what_is_this_c2/blob/master/images/amos.png "AMOS")
+
 Acrux: 
 
 ![alt text](https://github.com/luca-m/what_is_this_c2/blob/master/images/acrux.png "Acrux")
