@@ -443,6 +443,11 @@ Megumin:
 
 ![alt text](https://github.com/luca-m/what_is_this_c2/blob/master/images/megumin.png "Megumin")
 
+MysticStealer ( [ref](https://twitter.com/0xrb/status/1653364901384003585)):
+
+![alt text](https://github.com/luca-m/what_is_this_c2/blob/master/images/MysticStealer.png "MysticStealer")
+
+
 MysteryBot:
 
 ![alt text](https://github.com/luca-m/what_is_this_c2/blob/master/images/mysterybot.png "MysteryBot")
