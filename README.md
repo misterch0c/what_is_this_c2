@@ -456,6 +456,10 @@ MysticalNet:
 
 ![alt text](https://github.com/luca-m/what_is_this_c2/blob/master/images/mysticalnet.png "MysticalNet")
 
+MrRobot Phishing kit ([ref](https://twitter.com/luc4m/status/1655886075640913922), shodan [http.html_hash:-2101554476](), fofa [fid="D4DvDnZJm0FB0wMj+Ev5Sw=="](https://en.fofa.info/result?qbase64=ZmlkPSJENER2RG5aSm0wRkIwd01qK0V2NVN3PT0i) ):
+
+![alt text](https://github.com/luca-m/what_is_this_c2/blob/master/images/mrrobot.png "MrRobot")
+
 N0F1l3 / 1ms0rry:
 
 ![alt text](https://github.com/luca-m/what_is_this_c2/blob/master/images/n0fil3.png "1ms0rry")
